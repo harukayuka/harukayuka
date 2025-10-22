@@ -1,5 +1,4 @@
-[https://github.com/harukayuka/harukayuka/blob/main/Generated%20File%20October%2022,%202025%20-%2011_00AM.gif?raw=true](file)
-
+[![MasterHead](https://github.com/harukayuka/harukayuka/blob/main/Generated%20File%20October%2022,%202025%20-%2011_00AM.gif?raw=true)]
 # Hi there, I'm Harukayuka 👋
 
 > Saya adalah seorang siswa SMA yang sedang belajar coding disebuah sekolah swasta yang tidak terlalu mahal dan juga tidak terlalu kecil tempatnya.
