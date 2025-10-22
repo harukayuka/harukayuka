@@ -1,4 +1,6 @@
-[🎬 Lihat videonya di YouTube](https://www.youtube.com/watch?v=DQtP8V5Jw8A)
+<p align="center">
+  <img src="assets/demo.gif" alt="Demo Aplikasi" width="500"/>
+</p>
 
 # Hi there, I'm Harukayuka 👋
 
