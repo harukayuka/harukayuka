@@ -1,3 +1,5 @@
+[🎬 Lihat videonya di YouTube](https://www.youtube.com/watch?v=DQtP8V5Jw8A)
+
 # Hi there, I'm Harukayuka 👋
 
 > Saya adalah seorang siswa SMA yang sedang belajar coding disebuah sekolah swasta yang tidak terlalu mahal dan juga tidak terlalu kecil tempatnya.
