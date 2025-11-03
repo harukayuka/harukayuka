@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/harukayuka/harukayuka/blob/main/Generated%20File%20October%2022,%202025%20-%2011_00AM.gif?raw=true/)](https://harukayuka.github.io/)
+[![MasterHead](https://github.com/harukayuka/harukayuka/blob/main/Desain%20tanpa%20judul.png?raw=true)](https://harukayuka.github.io/)
 
 # Hi there, I'm Harukayuka 👋
 
